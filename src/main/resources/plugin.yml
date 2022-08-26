@@ -1,0 +1,9 @@
+name: Kurs
+version: '${project.version}'
+main: de.flodo07.kurs.Main
+api-version: 1.19
+commands:
+  fly:
+    description: Fly command
+  backpack:
+    description: Backpack command
